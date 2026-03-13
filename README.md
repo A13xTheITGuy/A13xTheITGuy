@@ -6,7 +6,9 @@ UPT AC Anul III 👨🏻‍💻 🖥️
 
 “The secret to getting ahead is getting started - Mark T”
 
-I am passionate about technology and software development, with experience in programming and teamwork. I have participated in IT projects, including web applications and video game scripts, strengthening my logical thinking and creativity skills. I am solution-oriented and motivated to continuously develop myself through learning and collaboration.
+I am a Systems Engineering student, passionate about developing software applications in Python, Java and C. I have developed end-to-end projects (individually and in teams): from web applications to security tools. Looking for an internship, I want a dynamic environment where I can contribute creatively and continuously learn.
+
+Check out my repos for hands-on implementations and feel free to reach out!
 
 * ✉️  You can contact me at [alexandru.stan2@student.upt.ro](mailto:alexandru.stan2@student.upt.ro)
 
